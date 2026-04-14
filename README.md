@@ -2,7 +2,7 @@
 
 # 🎬 Movie Booking Application
 
-A full-stack movie ticket booking web application inspired by BookMyShow, built using the MERN stack. This application allows users to browse movies, select show timings, and book tickets seamlessly.
+A full-stack movie ticket booking web application inspired by BookMyShow, built using the full stack. This application allows users to browse movies, select show timings, and book tickets seamlessly.
 
 ---
 
